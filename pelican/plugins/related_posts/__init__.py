@@ -1,1 +1,1 @@
-from .related_posts import *
+from .related_posts import *  # NOQA
