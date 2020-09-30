@@ -44,6 +44,14 @@ Additionally, you can specify the following in your settings file:
 With this setting, `article.related_posts` will contain only related posts from categories other than the original article's.
 
 
+Comparable plugins
+------------------
+
+Other plugins like `related_posts` exists and more or less cover the same features, most of the time with a twist:
+
+* `similar-posts`: a clone of `related_posts`, but use advanced algebraic model to score post's similarity.
+
+
 Contributing
 ------------
 
