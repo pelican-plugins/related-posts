@@ -5,4 +5,3 @@ CHANGELOG
 ------------------
 
 Initial release in namespace plugin format.
-
