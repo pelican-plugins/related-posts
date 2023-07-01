@@ -1,7 +1,7 @@
 Related Posts: A Plugin for Pelican
 ===================================
 
-[![Build Status](https://img.shields.io/github/workflow/status/pelican-plugins/related-posts/build)](https://github.com/pelican-plugins/related-posts/actions) [![PyPI Version](https://img.shields.io/pypi/v/pelican-related-posts)](https://pypi.org/project/pelican-related-posts/)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/pelican-plugins/related-posts/main.yml?branch=main)](https://github.com/pelican-plugins/related-posts/actions) [![PyPI Version](https://img.shields.io/pypi/v/pelican-related-posts)](https://pypi.org/project/pelican-related-posts/)
 
 Related Posts is a Pelican plugin that adds a list of related posts to an article by adding a `related_posts` variable to the article’s context.
 
